@@ -21,6 +21,16 @@ TODO: Fill out this long description.
 
 ## Commit Better
 
+- [The Art of the Commit](https://alistapart.com/article/the-art-of-the-commit)
+- [Better Commit Messages with Atom](https://medium.freecodecamp.org/towards-better-git-commit-messages-using-atom-6dbda5e14984)
+- [How To Write A commit message 2014](https://news.ycombinator.com/item?id=13889155)
+- [Releases are Better with Better Commits](https://blog.sentry.io/2017/05/01/release-commits.html)
+- [5 Useful Tips for Better Commit Messages](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+- [A Note About Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
+- [Deliberate Git](http://rakeroutes.com/blog/deliberate-git/)
+
+
 
 ## Review Better
 
