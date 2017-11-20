@@ -29,6 +29,7 @@ TODO: Fill out this long description.
 - [A Note About Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
 - [Deliberate Git](http://rakeroutes.com/blog/deliberate-git/)
+- [Bad Commit Messages Hall of Shame](http://www.codelord.net/2015/03/16/bad-commit-messages-hall-of-shame/)
 
 
 
